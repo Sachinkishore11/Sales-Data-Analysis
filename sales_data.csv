@@ -1,0 +1,6 @@
+Order ID,Date,Region,Product,Category,Quantity Ordered,Price Each,Sales
+1001,2023-12-01,West,Laptop,Electronics,1,1200,1200
+1002,2023-12-02,East,Headphones,Accessories,2,150,300
+1003,2023-12-03,North,Phone,Electronics,1,800,800
+1004,2023-11-28,West,Tablet,Electronics,3,300,900
+1005,2023-11-30,South,Monitor,Accessories,1,200,200

@@ -92,6 +92,7 @@ Mobile-friendly layout ensured
 Identified top-performing regions and channels
 
 ![image](https://github.com/user-attachments/assets/a5d28d22-f787-42e9-9c58-c9a05d73ce42)
+![image](https://github.com/user-attachments/assets/7f6b0839-7aba-4b8a-9545-6ab8eeb833ef)
 
 
 Exposed seasonal sales trends and YoY growth, driving strategic planning
